@@ -1,5 +1,4 @@
 public class Movie {
-    static void main() {
-        String title;
+    private String title;
     }
-}
+
