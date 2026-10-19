@@ -1,5 +1,5 @@
 # Konfliktøvelse - hold E26
 
 | Fornavn | GitHub |
-|Sofus|SofusLundgaard|
+|Marcuss|Marcusrf16|
 Øvelse i Git – 1. semester
